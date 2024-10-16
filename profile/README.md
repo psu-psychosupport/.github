@@ -17,6 +17,6 @@ https://stoboi.damego.ru/
 
 - JavaScipt/TypeScript
 - React.js
-- Next.js
+- Remix.run
 - formik
 - @mdxeditor
